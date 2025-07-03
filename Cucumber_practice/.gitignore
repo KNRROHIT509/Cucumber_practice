@@ -1,0 +1,12 @@
+bin/
+*.class
+.settings/
+.project
+.classpath
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+/target/
